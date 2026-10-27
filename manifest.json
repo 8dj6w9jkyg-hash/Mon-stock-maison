@@ -1,0 +1,14 @@
+{
+  "name": "Mon Stock Maison",
+  "short_name": "Mon Stock",
+  "description": "Gestion personnelle du cellier et du congélateur",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9f7",
+  "theme_color": "#244c3b",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
